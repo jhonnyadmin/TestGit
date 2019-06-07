@@ -1,1 +1,6 @@
 my first test cmd
+my first test cmd
+v
+my first test cmd
+v
+my first test cmd
